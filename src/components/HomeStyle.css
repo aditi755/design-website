@@ -130,7 +130,8 @@
 
 @media (max-width: 700px) {
 .header .connect{
-    margin-left: 36px;
+    margin-left: 2px;
+    height: 80px;
 }
 
 .home-main{
@@ -139,15 +140,15 @@
 }
 
 .home-info{
-  margin-left: 100px;
+  margin-left: 60px;
 }
 
 .home-access{
-  margin-left: 100px;
+  margin-left: 60px;
 }
 
 .home-title{
-  margin-left: 100px;
+  margin-left: 60px;
 }
 
 .home-card{
@@ -157,6 +158,18 @@
 .pic{
    margin-top: 30px;
    margin-left: 150px;
+}
+
+.home-card1{
+    height: 200px;
+}
+
+.home-card2{
+    height: 200px;
+}
+
+.home-card3{
+    height: 200px;
 }
 
 }
