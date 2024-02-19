@@ -1,8 +1,7 @@
 .home{
     height: 95vh;
     width: 99vw;
-    /* background-color: aqua; */
-   
+    /* background-color: aqua; */  
 }
 
 .header{
@@ -131,8 +130,8 @@
 
 @media (max-width: 700px) {
 .header .connect{
-    margin-left: 2px;
-    height: 80px;
+   margin-left: -8px;
+    height: 70px;
 }
 
 .home-main{
@@ -162,6 +161,10 @@
 .pic{
    margin-top: 30px;
    margin-left: 80px; 
+}
+
+.header-title{
+    margin-left: 30px;
 }
 /* 
 .home-card1{
