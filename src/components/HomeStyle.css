@@ -1,0 +1,128 @@
+.home{
+    height: 95vh;
+    width: 99vw;
+    /* background-color: aqua; */
+   
+}
+
+.header{
+  display: flex;
+}
+
+.header-title{
+   margin-left: 80px;
+   font-size: 34px;
+   font-weight: 600;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header .connect{
+    margin-left: 800px;
+    font-size: 30px;
+    font-weight: 570;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     width: 250px;
+     height: 50px;
+     background-color:  rgb(34, 34, 34);
+     text-align: center;
+     padding-top: 18px;
+     opacity: 1;
+     border-radius: 8px;
+     box-shadow: rgba(0, 0, 0, 0.15) 0px 0.706592px 0.706592px -0.625px, rgba(0, 0, 0, 0.145) 0px 1.80656px 1.80656px -1.25px, rgba(0, 0, 0, 0.137) 0px 3.62176px 3.62176px -1.875px, rgba(0, 0, 0, 0.125) 0px 6.8656px 6.8656px -2.5px, rgba(0, 0, 0, 0.106) 0px 13.6468px 13.6468px -3.125px, rgba(0, 0, 0, 0.05) 0px 30px 30px -3.75px;
+     color: #f1f4f4;
+}
+
+.home-main{
+    display: flex;
+    flex-direction: row;
+}
+
+.home-title{
+ margin-left: 160px;
+ margin-top: 70px;
+ font-size: 48px;
+ font-weight: 700;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home-info{
+    font-size: 30px;
+    font-weight: 700;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 160px;
+    margin-top: 30px;
+}
+
+.home-access{  
+    margin-left: 160px;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: 570;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     width: 300px;
+     height: 50px;
+     background-color:  rgb(34, 34, 34);
+     text-align: center;
+     padding-top: 18px;
+     opacity: 1;
+     border-radius: 8px;
+     box-shadow: rgba(0, 0, 0, 0.15) 0px 0.706592px 0.706592px -0.625px, rgba(0, 0, 0, 0.145) 0px 1.80656px 1.80656px -1.25px, rgba(0, 0, 0, 0.137) 0px 3.62176px 3.62176px -1.875px, rgba(0, 0, 0, 0.125) 0px 6.8656px 6.8656px -2.5px, rgba(0, 0, 0, 0.106) 0px 13.6468px 13.6468px -3.125px, rgba(0, 0, 0, 0.05) 0px 30px 30px -3.75px;
+     color: #f1f4f4;
+}
+
+.pic{
+    width: 200px;
+    height: 280px;
+    margin-top: 80px;
+    margin-left: 120px;
+    border: 2px white solid;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0.706592px 0.706592px -0.625px, rgba(0, 0, 0, 0.145) 0px 1.80656px 1.80656px -1.25px, rgba(0, 0, 0, 0.137) 0px 3.62176px 3.62176px -1.875px, rgba(0, 0, 0, 0.125) 0px 6.8656px 6.8656px -2.5px, rgba(0, 0, 0, 0.106) 0px 13.6468px 13.6468px -3.125px, rgba(0, 0, 0, 0.05) 0px 30px 30px -3.75px;
+    color: #f1f4f4;
+}
+
+.home-card{
+ display: flex;
+ justify-content: center;
+ gap: 170px;
+ margin-top: 50px;
+}
+
+.home-card1{
+    width: 300px;
+    height: 170px;
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+   border: 2px white solid;
+   border-radius: 10px;
+   box-shadow: rgba(0, 0, 0, 0.15) 0px 0.706592px 0.706592px -0.625px, rgba(0, 0, 0, 0.145) 0px 1.80656px 1.80656px -1.25px, rgba(0, 0, 0, 0.137) 0px 3.62176px 3.62176px -1.875px, rgba(0, 0, 0, 0.125) 0px 6.8656px 6.8656px -2.5px, rgba(0, 0, 0, 0.106) 0px 13.6468px 13.6468px -3.125px, rgba(0, 0, 0, 0.05) 0px 30px 30px -3.75px;
+   color: black;
+}
+
+.home-card2{
+    width: 300px;
+    height: 170px;
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+   border: 2px white solid;
+   border-radius: 10px;
+   box-shadow: rgba(0, 0, 0, 0.15) 0px 0.706592px 0.706592px -0.625px, rgba(0, 0, 0, 0.145) 0px 1.80656px 1.80656px -1.25px, rgba(0, 0, 0, 0.137) 0px 3.62176px 3.62176px -1.875px, rgba(0, 0, 0, 0.125) 0px 6.8656px 6.8656px -2.5px, rgba(0, 0, 0, 0.106) 0px 13.6468px 13.6468px -3.125px, rgba(0, 0, 0, 0.05) 0px 30px 30px -3.75px;
+   color: black;
+}
+
+.home-card3{
+    width: 300px;
+    height: 170px;
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+   border: 2px white solid;
+   border-radius: 10px;
+   box-shadow: rgba(0, 0, 0, 0.15) 0px 0.706592px 0.706592px -0.625px, rgba(0, 0, 0, 0.145) 0px 1.80656px 1.80656px -1.25px, rgba(0, 0, 0, 0.137) 0px 3.62176px 3.62176px -1.875px, rgba(0, 0, 0, 0.125) 0px 6.8656px 6.8656px -2.5px, rgba(0, 0, 0, 0.106) 0px 13.6468px 13.6468px -3.125px, rgba(0, 0, 0, 0.05) 0px 30px 30px -3.75px;
+   color: black;
+}           
