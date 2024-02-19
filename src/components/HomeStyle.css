@@ -84,6 +84,7 @@
 
 .home-card{
  display: flex;
+ flex-direction: column;
  justify-content: center;
  gap: 170px;
  margin-top: 50px;
@@ -152,14 +153,17 @@
 }
 
 .home-card{
-    gap: 5px;
-}
+    display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-left: 70px;
+}  
 
 .pic{
    margin-top: 30px;
-   margin-left: 150px;
+   margin-left: 80px; 
 }
-
+/* 
 .home-card1{
     height: 200px;
 }
@@ -170,7 +174,7 @@
 
 .home-card3{
     height: 200px;
-}
+} */
 
 }
 
