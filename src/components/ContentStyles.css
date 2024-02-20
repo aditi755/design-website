@@ -26,3 +26,12 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 500px;
 }
+
+@media (max-width: 700px){
+    .content{
+        margin-top: 150px;
+        flex-direction: column;
+        height: 500px;
+        width: 800px;
+    }
+}
