@@ -1,5 +1,5 @@
 .content{
-    width: 97%;
+    width: 99%;
     height: 300px;
     background-color: #2f1b12;
     display: flex;
@@ -22,7 +22,7 @@
 .content-info{
     color: white;
     margin-top: 50px;
-    font-size: 15px;
+    font-size: 18px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 500px;
 }
