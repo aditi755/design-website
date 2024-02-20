@@ -1,0 +1,62 @@
+.services{
+    height: 90vh;
+    width: 90vw;
+    overflow-x: none; 
+}
+
+.services-title{
+    margin-top: 180px;
+    margin-left: 350px;
+    font-size: 48px;
+ font-weight: 700;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.services-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+    margin-left: 130px;
+}
+
+.services-card1{
+    width: 300px;
+    height: 300px;
+    border: 4px solid black;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0.706592px 0.706592px -0.625px, rgba(0, 0, 0, 0.145) 0px 1.80656px 1.80656px -1.25px, rgba(0, 0, 0, 0.137) 0px 3.62176px 3.62176px -1.875px, rgba(0, 0, 0, 0.125) 0px 6.8656px 6.8656px -2.5px, rgba(0, 0, 0, 0.106) 0px 13.6468px 13.6468px -3.125px, rgba(0, 0, 0, 0.05) 0px 30px 30px -3.75px;
+   
+}
+
+.title{
+     font-size: 20px; 
+     margin-left: 20px;
+}
+
+.para{
+    font-size: 16px; 
+    margin-left: 20px;
+    color : grey;
+    font-weight: 500;
+}
+
+
+.services-card2{
+    width: 300px;
+    height: 300px;
+    border: 4px solid black;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0.706592px 0.706592px -0.625px, rgba(0, 0, 0, 0.145) 0px 1.80656px 1.80656px -1.25px, rgba(0, 0, 0, 0.137) 0px 3.62176px 3.62176px -1.875px, rgba(0, 0, 0, 0.125) 0px 6.8656px 6.8656px -2.5px, rgba(0, 0, 0, 0.106) 0px 13.6468px 13.6468px -3.125px, rgba(0, 0, 0, 0.05) 0px 30px 30px -3.75px;
+}
+
+
+.services-card3{
+    width: 300px;
+    height: 300px;
+    border: 4px solid black;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0.706592px 0.706592px -0.625px, rgba(0, 0, 0, 0.145) 0px 1.80656px 1.80656px -1.25px, rgba(0, 0, 0, 0.137) 0px 3.62176px 3.62176px -1.875px, rgba(0, 0, 0, 0.125) 0px 6.8656px 6.8656px -2.5px, rgba(0, 0, 0, 0.106) 0px 13.6468px 13.6468px -3.125px, rgba(0, 0, 0, 0.05) 0px 30px 30px -3.75px;
+}
+
