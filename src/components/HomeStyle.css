@@ -128,7 +128,7 @@
    color: black;
 }           
 
-@media (max-width: 700px) {
+@media (max-width: 500px) {
 .header .connect{
    margin-left: 13px;
     height: 60px;
