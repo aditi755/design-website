@@ -7,7 +7,7 @@ const Services = () => {
   return (
     <div className="services">
         <div className="services-title">
-            WHERE MOST DESIGNERS GO WRONG AND U SHOULD NOT
+            WHERE MOST DESIGNERS GO WRONG AND You SHOULD NOT
         </div>
 
         <div className="services-card">
