@@ -62,14 +62,20 @@
 
 @media (max-width: 500px) {
   .services{
-    width: 500px;
-    height: 100%;
-    margin-top: 900px;
-    margin-left: -80px;
+    width: 90%;
+    height: 80%;
+     margin-top: 150vh;
+    margin-left: -80px; 
   }
 
   .services-card{
     flex-direction: column;
+  }
+
+  .services-title{
+    margin-top: 0.2rem;
+    margin-left: 30%;
+    
   }
 }
 
