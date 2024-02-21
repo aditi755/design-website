@@ -5,14 +5,17 @@ import './App.css'
 import Home from './components/Home'
 import Services from './components/Services'
 import Content from './components/Content.jsx'
+//import FadeIn from 'react-fade-in';
+import Fade from 'react-reveal/Zoom';
 function App() {
 
   return (
-    <>
+    <Fade>
       <Home />
       <Services />
-      <Content />
-    </>
+      <Content />    
+    </Fade>
+    
   )
 }
 
